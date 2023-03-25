@@ -1,6 +1,6 @@
 <>
 <h1 align="center">Flight Arena of the Laboratorio de Control Avanzado de Sistemas Ciberfísicos</h1>
-<p>The flight arena of Lab-CASCi is a space that allows to test algorithms designed in MATLAB/Simulink for air and mobile systems, tracked by OptiTrack cameras, a precision motion capture system. This repository gathers the tools of ROS environment that links MATLAB/Simulink with OptiTrack data and commands the unmanned vehicules.
+<p>The flight arena of Lab-CASCi is a space that allows to test algorithms designed in MATLAB/Simulink for air and mobile systems, tracked by OptiTrack cameras, a precision motion capture system. This repository gathers the tools of ROS environment that links MATLAB/Simulink with OptiTrack data and commands the unmanned vehicules,PRUEBA**.
 
 <details>
   <summary>Table of contents</summary>
